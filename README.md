@@ -1,7 +1,7 @@
 Earthos-Brain
 http://www.thebrain.com/ "TheBrain" V7 
-~ *InHarmony*Earthos*Nusys*EnterpriseSolutions* EarthosBrain*: AutomatedSystemsManagement. (ASM) //DynamicGlobalCoordinationSystem (DGCS)
-=============
+~ InHarmony*Earthos*Nusys*EnterpriseSolutions* EarthosBrain*: AutomatedSystemsManagement. (ASM) //DynamicGlobalCoordinationSystem (DGCS)
+=
 
 EarthosBrain: AutomatedSystemsManagement(ASM) //DynamicGlobalCoordinationSystem (DGCS)
 https://github.com/2215/Earthos-Brain
